@@ -4,8 +4,7 @@ This project leverages a real-world dataset of coffee sales from a vending machi
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Data Sources](#data-sources)
-- [Tools](#tools)
+- [Project Focus](#project-focus)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Data Extraction and Querying](#data-extraction-and-querying)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
@@ -13,3 +12,5 @@ This project leverages a real-world dataset of coffee sales from a vending machi
 - [Recomendations](#recommendations)
 - [Limitations](#limitations)
 - [References](#references)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
