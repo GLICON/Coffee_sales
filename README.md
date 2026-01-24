@@ -14,3 +14,8 @@ This project leverages a real-world dataset of coffee sales from a vending machi
 - [References](#references)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
+
+### Project Overview
+The goal of this project is to analyze product sales performance and trends across categories to uncover patterns, identify high-performing products, and provide actionable insights for business strategy.
+
+Project Summary
