@@ -7,7 +7,7 @@ CREATE TABLE footwear(
 	Region CHAR(6),
 	Country CHAR (15),
 	Category VARCHAR(30),
-	Sub_Category CHAR(15),
+	Sub_Category CHAR(30),
 	Product_Name CHAR(30),
 	Quantity INT,
 	Unit_Price FLOAT,
